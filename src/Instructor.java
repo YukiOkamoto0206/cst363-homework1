@@ -63,14 +63,4 @@ public class Instructor {
         return ID == that.ID && salary == that.salary && Objects.equals(name, that.name) && Objects.equals(dept_name, that.dept_name);
     }
 
-
-
-    /*
-     * use Eclipse generate function to
-     *    generate constructor using fields
-     *    generate getter/setters
-     *    generate toString
-     *    generate equals
-     */
-
 }
